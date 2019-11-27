@@ -1,0 +1,11 @@
+D:\c#\MakeSQL\MakeSQL\bin\Debug\netcoreapp2.1\MakeSQL.deps.json
+D:\c#\MakeSQL\MakeSQL\bin\Debug\netcoreapp2.1\MakeSQL.runtimeconfig.json
+D:\c#\MakeSQL\MakeSQL\bin\Debug\netcoreapp2.1\MakeSQL.runtimeconfig.dev.json
+D:\c#\MakeSQL\MakeSQL\bin\Debug\netcoreapp2.1\MakeSQL.dll
+D:\c#\MakeSQL\MakeSQL\bin\Debug\netcoreapp2.1\MakeSQL.pdb
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.csprojAssemblyReference.cache
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.csproj.CoreCompileInputs.cache
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.AssemblyInfoInputs.cache
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.AssemblyInfo.cs
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.dll
+D:\c#\MakeSQL\MakeSQL\obj\Debug\netcoreapp2.1\MakeSQL.pdb
